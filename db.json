@@ -1,14 +1,24 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    noneligible: 0,
+    id: 1832,
+    responsible: 'João',
+    phone: 981357287,
+    initial_tasks: [1458,1437],
+    follow_ups: [1358, 1527, 1729],
+    email_sent: 1,
+    nps: 1,
+    satisfaction : 5
+  },
+  {
+    noneligible: 1,
+    id: 1587,
+    responsible: 'Pedro',
+    phone: 981443598,
+    initial_tasks: [1322],
+    follow_ups: [1756,1821],
+    email_sent: 0,
+    nps: 0,
+    satisfaction : 0
   }
-}
+]
